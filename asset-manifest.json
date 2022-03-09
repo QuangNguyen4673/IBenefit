@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.564e3520.css",
+    "main.js": "/static/js/main.e59b2b96.js",
+    "static/js/787.a3e0363c.chunk.js": "/static/js/787.a3e0363c.chunk.js",
+    "static/media/user.png": "/static/media/user.c905095b9015514bb9ac.png",
+    "static/media/logoiBenefit.png": "/static/media/logoiBenefit.db4f4a0ab1139bd592ad.png",
+    "index.html": "/index.html",
+    "main.564e3520.css.map": "/static/css/main.564e3520.css.map",
+    "main.e59b2b96.js.map": "/static/js/main.e59b2b96.js.map",
+    "787.a3e0363c.chunk.js.map": "/static/js/787.a3e0363c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.564e3520.css",
+    "static/js/main.e59b2b96.js"
+  ]
+}

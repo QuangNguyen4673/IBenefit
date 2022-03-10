@@ -39,6 +39,7 @@ export default function Question2() {
       const cacheStorage = await caches.open("device_info")
       const cachedResponse = await cacheStorage.match(initUrl)
       if (!cachedResponse || !cachedResponse.ok) {
+        _initDeviceInfo()
         return false
       }
       const cachedResponseData = await cachedResponse.json()
